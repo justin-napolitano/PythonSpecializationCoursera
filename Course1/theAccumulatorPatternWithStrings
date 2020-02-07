@@ -1,0 +1,21 @@
+#For each character in the string already saved in the variable str1, add each character to a list called chars.
+
+str1 = "I love python"
+# HINT: what's the accumulator? That should go here.
+chars = []
+for ch in str1:
+    chars.append(ch)
+
+
+#Assign an empty string to the variable output. Using the range function, write code to make it so that the variable output has 35 a s inside it (like "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"). Hint: use the accumulation pattern!
+output = ""
+for i in range(35):
+    output = output + 'a'
+
+
+#Currently there is a string called str1. Write code to create a list called chars which should contain the characters from str1. Each character in str1 should be its own element in the list chars.
+str1 = "I love python"
+# HINT: what's the accumulator? That should go here.
+chars = []
+for ch in str1:
+    chars.append(ch)

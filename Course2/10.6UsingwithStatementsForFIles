@@ -1,0 +1,14 @@
+#10.6 Using "with" for files
+with open('mydata.txt', 'r') as md:
+    for line in md:
+        print(line)
+# continue on with other code
+
+md = open('mydata.txt', 'r')
+for line in md:
+    print(line)
+md.close()
+# continue with other code
+
+
+#The Two are equivalent.  With statements are probably more common and a better idiom to use
