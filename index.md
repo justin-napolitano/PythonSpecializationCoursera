@@ -1,12 +1,27 @@
 ---
-slug: "github-pythonspecializationcoursera"
-title: "PythonSpecializationCoursera"
-repo: "justin-napolitano/PythonSpecializationCoursera"
-githubUrl: "https://github.com/justin-napolitano/PythonSpecializationCoursera"
-generatedAt: "2025-11-23T09:30:07.850408Z"
-source: "github-auto"
+slug: github-pythonspecializationcoursera
+title: 'Python Specialization Coursera Repo: Exercises, APIs, and OCR Projects'
+repo: justin-napolitano/PythonSpecializationCoursera
+githubUrl: https://github.com/justin-napolitano/PythonSpecializationCoursera
+generatedAt: '2025-11-23T09:30:07.850408Z'
+source: github-auto
+summary: >-
+  Collection of Python projects from a Coursera specialization covering core exercises, API usage,
+  image processing, OCR, and object-oriented design.
+tags:
+  - python
+  - coursera
+  - ocr
+  - image-processing
+  - api-interaction
+  - object-oriented-programming
+seoPrimaryKeyword: python specialization coursera
+seoSecondaryKeywords:
+  - python exercises
+  - ocr projects
+  - api interaction
+seoOptimized: true
 ---
-
 
 ## Overview
 
