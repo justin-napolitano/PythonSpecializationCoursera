@@ -21,6 +21,13 @@ seoSecondaryKeywords:
   - ocr projects
   - api interaction
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.85
+topicFamilyNotes: >-
+  The post covers Python projects focused on data manipulation, algorithm implementation, API
+  interaction, image processing, and OCR, which align strongly with data analysis and scientific
+  workflows captured by the datascience family. Other families like automation or devtools are less
+  representative of the content's domain and scope.
 ---
 
 ## Overview
@@ -80,3 +87,4 @@ The code is predominantly straightforward and functional, suitable for education
 ## Summary
 
 This repository is a practical reference for Python learners progressing from basic programming constructs to integrating third-party libraries and APIs. It illustrates common patterns in data processing, algorithm implementation, and application development in Python. Returning to this project, one can understand the incremental learning path and the practical challenges addressed through code examples and projects.
+
