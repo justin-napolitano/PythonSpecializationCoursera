@@ -1,21 +1,31 @@
 ---
 slug: github-pythonspecializationcoursera
 id: github-pythonspecializationcoursera
-title: PythonSpecializationCoursera
+title: Python Programming Projects from Coursera Specialization
 repo: justin-napolitano/PythonSpecializationCoursera
 githubUrl: https://github.com/justin-napolitano/PythonSpecializationCoursera
 generatedAt: '2025-11-24T21:36:05.551Z'
 source: github-auto
 summary: >-
-  This repository contains a collection of Python programming exercises,
-  assignments, and projects completed as part of the Coursera Python
-  Specialization. It covers foundational programming concepts, data structures,
-  file handling, and intermediate projects including API usage and image
-  processing.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore Python exercises and projects from the Coursera Python Specialization,
+  covering core concepts and practical applications.
+tags:
+  - python
+  - coursera
+  - image processing
+  - api
+  - data structures
+  - requests
+  - opencv
+  - pytesseract
+seoPrimaryKeyword: python specialization projects
+seoSecondaryKeywords:
+  - python programming exercises
+  - coursera python assignments
+  - image processing in python
+  - api interaction with python
+  - python data structures
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
