@@ -1,13 +1,13 @@
 ---
 slug: github-pythonspecializationcoursera
-title: 'Python Specialization Coursera Repo: Exercises, APIs, and OCR Projects'
+title: Python Programming Exercises from Coursera Specialization
 repo: justin-napolitano/PythonSpecializationCoursera
 githubUrl: https://github.com/justin-napolitano/PythonSpecializationCoursera
 generatedAt: '2025-11-23T09:30:07.850408Z'
 source: github-auto
 summary: >-
-  Collection of Python projects from a Coursera specialization covering core exercises, API usage,
-  image processing, OCR, and object-oriented design.
+  Explore a collection of Python exercises and projects covering algorithms, API
+  interaction, and image processing for practical learning.
 tags:
   - python
   - coursera
@@ -15,19 +15,29 @@ tags:
   - image-processing
   - api-interaction
   - object-oriented-programming
-seoPrimaryKeyword: python specialization coursera
-seoSecondaryKeywords:
-  - python exercises
-  - ocr projects
   - api interaction
+  - image processing
+  - object-oriented programming
+  - algorithms
+  - data manipulation
+seoPrimaryKeyword: python programming exercises
+seoSecondaryKeywords:
+  - coursera python specialization
+  - api projects in python
+  - image processing with python
+  - object-oriented programming in python
+  - python algorithms examples
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.85
 topicFamilyNotes: >-
-  The post covers Python projects focused on data manipulation, algorithm implementation, API
-  interaction, image processing, and OCR, which align strongly with data analysis and scientific
-  workflows captured by the datascience family. Other families like automation or devtools are less
+  The post covers Python projects focused on data manipulation, algorithm
+  implementation, API interaction, image processing, and OCR, which align
+  strongly with data analysis and scientific workflows captured by the
+  datascience family. Other families like automation or devtools are less
   representative of the content's domain and scope.
+kind: project
+id: github-pythonspecializationcoursera
 ---
 
 ## Overview
