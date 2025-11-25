@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/PythonSpecializationCoursera
 generatedAt: '2025-11-24T21:36:05.551Z'
 source: github-auto
 summary: >-
-  Explore Python exercises and projects from the Coursera Python Specialization,
-  covering core concepts and practical applications.
+  Explore Python exercises and projects from the Coursera Python Specialization, covering core
+  concepts and practical applications.
 tags:
   - python
   - coursera
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - api interaction with python
   - python data structures
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -113,3 +113,4 @@ python Week3Assignment.py
 
 ---
 *This README assumes the repository is primarily educational and exploratory, focusing on Python programming fundamentals and intermediate projects.*
+
